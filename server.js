@@ -1,4 +1,4 @@
-const url = "0.0.0.0";
+const url = "127.0.0.1";
 const port = process.env.SERVER_PORT;
 const express = require("express");
 const app = express();
